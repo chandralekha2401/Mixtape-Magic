@@ -7,7 +7,7 @@ Mixtape Magic is a web application designed to manage and showcase user-created 
 - 🎨 **Dynamic UI Components** – A modular design system for playlist management.
 - 🔐 **User Authentication** – Secure login & authentication with **JSON Web Tokens (JWT)**.
 - 🎵 **Playlist Management** – Organise and show off your playlists with ease.
-- 📡 **Database Integration** –
+- 📡 **Database Integration** – Integrate a PostgreSQL database to persist user accounts and playlist data.
 - 🚀 **Hosting & Deployment** – Powered by **Supabase & Render** for backend, and **Netlify** for frontend.
 - 📱 **Fully Responsive** – Optimised for all screen sizes and devices (hopefully...).
 
@@ -24,8 +24,8 @@ Mixtape Magic is a web application designed to manage and showcase user-created 
 This project was built using the following technologies:
 
 - **Frontend:** React (UI components & state management)
-- **Backend:**
-- **Database:**
+- **Backend:** Node.js
+- **Database:** PostgreSQL
 - **Authentication:** JWT (JSON Web Tokens)
 - **Hosting:** Netlify (Frontend), Render (Backend)
 - **Version Control:** Git & GitHub
